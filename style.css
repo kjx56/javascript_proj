@@ -1,0 +1,81 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Gamja+Flower&display=swap');
+
+.Container {
+
+text-align: center;
+margin-bottom: 56;
+}
+.btn{
+
+font-family: 'helvetica neue', helvetica, sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: center;
+  border: 2px solid rgba(0,0,200,0.6);
+  background: black;
+  color:white;
+  box-shadow: 1px 1px 2px rgba(0,0,200,0.4);
+  border-radius: 0px;
+  padding: 3px 10px;
+  display: inline-block;
+  cursor: pointer;
+
+}
+.Super {
+    font-family: 'Chelsea Market', cursive;
+
+}
+.GetWhite{
+
+    color: white;
+}
+h2{
+    font-family: 'Gamja Flower', cursive; 
+    
+
+}
+header {
+    
+    background-color: #e4572e; /* for the header element selector */
+       text-align: center
+}
+main {
+    font-family: 'Gamja Flower', cursive; /* for the rest of the page */
+}
+
+footer {
+    font-family: 'Gamja Flower', cursive; /* for the rest of the page */
+    text-align: center
+
+}
+
+
+
+p{
+  
+   text-align: left;
+}
+article {
+    background-color: #fffff2; 
+    border: 4px solid #050401; /* for the borders */
+    box-shadow: 3px 3px 0 0 #e4572e; /* for the shadows */
+    margin-left: auto;
+    margin-right: auto;
+    width: 45em;
+    text-align: left;
+    }
+img{
+
+    float: right;
+    
+    margin: 0px;
+
+    position: relative;
+    top: -58px;
+}
+
+.mid {
+
+    text-align: center
+}
